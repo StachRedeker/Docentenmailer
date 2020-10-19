@@ -26,6 +26,9 @@ Dan wordt een dataset gemaakt. De dataset bestaat uit de namen en bijbehorende e
 <datalist id="mail">
   <option value="eerste mailpersoon">Eerste</option>
   <option value="tweede mailpersoon">Tweede</option>
+  ...
+  ...
+  ...
 </datalist>
 ```
 En tot slot krijgt het formulier ook nog een verzendknop:
