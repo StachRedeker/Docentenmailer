@@ -39,7 +39,7 @@ En tot slot krijgt het formulier ook nog een verzendknop:
 
 ## Hoe te gebruiken
 
-De website vind je, zolang ik besluit deze te hosten, [hier](https://www.docent.stachredeker.nl/). Begin met het typen van de achternaam van een docent in het formulierveld en de rest gaat vanzelf!
+De website vind je, zolang ik besluit deze te hosten, [hier](https://vault.stachredeker.nl/docent/). Begin met het typen van de achternaam van een docent in het formulierveld en de rest gaat vanzelf!
 
 ## Updates
 
